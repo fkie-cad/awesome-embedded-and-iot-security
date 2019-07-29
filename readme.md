@@ -17,7 +17,7 @@
 - [Conferences](#conferences)
 
 ## Software Tools
-Software Tools for analyzing embedded firmware images.
+Software tools for analyzing embedded/IoT firmware.
 
 ### Analysis Frameworks
 
@@ -51,6 +51,7 @@ Software Tools for analyzing embedded firmware images.
 ## Research Papers
 
 - 2018, Muench et al: [What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices](http://www.eurecom.fr/en/publication/5417/download/sec-publi-5417.pdf)
+- 2017, Jacob et al: [How to Break Secure Boot on FPGA SoCs through Malicious Hardware](https://eprint.iacr.org/2017/625.pdf)
 - 2017, Costin et al: [Towards Automated Classification of Firmware Images and Identification of Embedded Devices](http://s3.eurecom.fr/docs/ifip17_costin.pdf)
 - 2016, Kammerstetter et al: [Embedded Security Testing with Peripheral Device Caching and Runtime Program State Approximation](http://www.seclab.tuwien.ac.at/papers/kammerstetter_secuware2016_peripheralCache.pdf)
 - 2016, Chen et al: [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.dcddcc.com/docs/2016_paper_firmadyne.pdf)
@@ -65,7 +66,7 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 
 ### Case Studies
 
-Case Studies are a good start to learn how to find a vulnerabilities in embedded firmware.
+Case studies are a good start to learn how to find a vulnerabilities in embedded firmware.
 
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
 - [Multiple vulnerabilities found in the Dlink DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
@@ -76,6 +77,8 @@ Case Studies are a good start to learn how to find a vulnerabilities in embedded
 
 - [OWASP Embedded Application Security](https://www.owasp.org/index.php/OWASP_Embedded_Application_Security)
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
+- [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page)
+- [Router Passwords](https://www.routerpasswords.com) - Default login credential database sorted by manufacturer.
 
 ## Conferences
 
