@@ -16,6 +16,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
 - [Books](#books)
 - [Research Papers](#research-papers)
   - [Case Studies](#case-studies)
+- [Open source trainings](#free-trainings)
 - [Websites](#websites)
 - [Conferences](#conferences)
 
@@ -24,7 +25,7 @@ Software tools for analyzing embedded/IoT firmware.
 
 ### Analysis Frameworks
 
-- [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) - Full featured static analysis framework including extraction of firmware, analysis utilizing different plug-ins and comparison of different firmware versions.
+- [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) - Full-featured static analysis framework including extraction of firmware, analysis utilizing different plug-ins and comparison of different firmware versions.
 - [EXPLIoT](https://gitlab.com/expliot_framework/expliot) - Pentest framework like Metasploit but specialized for IoT.
 
 ### Analysis Tools
@@ -34,6 +35,11 @@ Software tools for analyzing embedded/IoT firmware.
 - [firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
 - [Ghidra](https://ghidra-sre.org/) - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
 - [Trommel](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
+
+### Support Tools
+
+- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino
+- [OpenOCD](https://http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing
 
 ### Extraction Tools
 
@@ -47,10 +53,29 @@ Software tools for analyzing embedded/IoT firmware.
 - [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) - Detects and interacts with hardware debug ports like UART and JTAG.
 - [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) - Detects JTAG Pinouts fast.
 - [Saleae](https://www.saleae.com/) - Easy to use Logic Analyzer that support many protocols. :euro:
+- [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Alternative to Saleae logic analyzers
+- [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) -  Open source multi-tool hardware similar to the BusPirate but with NFC capabilities 
+- [ChipWhisperer](https://newae.com/tools/chipwhisperer/) - Detects Glitch/Side-channel attacks 
+- [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -  Tool for exploring and debugging different digital interfaces
+- [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores
+
 
 ## Books
 
+- 2020, Jasper van Woudenberg, Colin O'Flynn: [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded-ebook/dp/B077WZBFYL)
+- 2019 Yago Hansen: [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://www.amazon.com/Hackers-Hardware-Toolkit-collection-researchers/dp/1099209463)
 - 2019, Aditya Gupta: [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.apress.com/us/book/9781484242995)
+- 2018, Mark Swarup Tehranipoor: [Hardware Security: A Hands-on Learning Approach](https://www.amazon.com/Hardware-Security-Hands-Learning-Approach/dp/0128124776)
+- 2017, Aditya Gupta, Aaron Guzman: [IoT Penetration Testing Cookboo](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)  
+- 2017, Andrew Huang: [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://www.amazon.com/Hardware-Hacker-Adventures-Making-Breaking/dp/159327758X)
+- 2016, Craig Smith: [The Car Hacker's Handbook: A Guide for the Penetration Tester](https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032)
+- 2015, Nitesh Dhanjan: [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36)
+- 2014, Debdeep Mukhopadhyay: [Hardware Security: Design, Threats, and Safeguards](https://www.amazon.com/Hardware-Security-Design-Threats-Safeguards/dp/143989583X)
+- 2014, Jack Ganssle: [The Firmware Handbook (Embedded Technology)](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
+- 2013, Andrew Huang: [Hacking the XBOX](https://nostarch.com/xboxfree)
+- 2007, Paul Asadoorian, Larry Pesce: [Linksys WRT54G Ultimate Hacking](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
+- 2004, Joe Grand, Kevin Mitnick, Ryan Russel: [Hardware Hacking: Have Fun While Voiding Your Warranty](https://www.amazon.com/Hardware-Hacking-While-Voiding-Warranty/dp/1932266836)
+
 
 ## Research Papers
 
@@ -71,9 +96,20 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 ### Case Studies
 
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
-- [Multiple vulnerabilities found in the Dlink DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
+- [Multiple vulnerabilities found in the D-link DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
 - [Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol](https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html)
 - [PWN Xerox Printers (...again)](https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/xerox_phaser_6700_white_paper.pdf)
+
+
+## Free Trainings
+
+- [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019
+- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt
+- [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018
+- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge
+- [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge
+- [Embedded Security CTF](https://microcorruption.com/login) - Microcorruption: Embedded Security CTF
+
 
 ## Websites
 
