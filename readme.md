@@ -1,7 +1,10 @@
 # Awesome Embedded and IoT Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources about embedded and IoT security. The list contains software and hardware tools, books, research papers and more. 
+> A curated list of awesome resources about embedded and IoT security. The list contains software and hardware tools, books, research papers and more.
 
+If you are a beginner, you should have a look at the [Books](#books) and [Case Studies](#case-studies) sections.  
+If you want to start right away with your own analysis, you should give the [Analysis Frameworks](#analysis-frameworks) a try.
+They are easy to use and you do not need to be an expert to get first meaningful results.
 
 ## Contents
 
@@ -29,6 +32,7 @@ Software tools for analyzing embedded/IoT firmware.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff.  
 - [Firmadyne](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
 - [firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
+- [Ghidra](https://ghidra-sre.org/) - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
 - [Trommel](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
 ### Extraction Tools
@@ -39,10 +43,10 @@ Software tools for analyzing embedded/IoT firmware.
 
 ## Hardware Tools
 
-- [Bus Blaster](http://dangerousprototypes.com/docs/Bus_Blaster) - Detects and interacts with hardware debug ports like UART and JTAG.
+- [Bus Blaster](http://dangerousprototypes.com/docs/Bus_Blaster) - Detects and interacts with hardware debug ports like [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) and [JTAG](https://en.wikipedia.org/wiki/JTAG).
 - [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) - Detects and interacts with hardware debug ports like UART and JTAG.
-- [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) - Detects JTAG Pinouts.
-
+- [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) - Detects JTAG Pinouts fast.
+- [Saleae](https://www.saleae.com/) - Easy to use Logic Analyzer that support many protocols. :euro:
 
 ## Books
 
@@ -65,8 +69,6 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - 2013, Davidson et al: [FIE on Firmware: Finding Vulnerabilities in Embedded Systems using Symbolic Execution](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf)
 
 ### Case Studies
-
-Case studies are a good start to learn how to find a vulnerabilities in embedded firmware.
 
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
 - [Multiple vulnerabilities found in the Dlink DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
