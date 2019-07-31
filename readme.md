@@ -16,7 +16,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
 - [Books](#books)
 - [Research Papers](#research-papers)
   - [Case Studies](#case-studies)
-- [Open source trainings](#free-trainings)
+- [Free Trainings](#free-trainings)
 - [Websites](#websites)
 - [Conferences](#conferences)
 
@@ -64,18 +64,17 @@ Software tools for analyzing embedded/IoT firmware.
 ## Books
 
 - 2020, Jasper van Woudenberg, Colin O'Flynn: [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded-ebook/dp/B077WZBFYL)
-- 2019 Yago Hansen: [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://www.amazon.com/Hackers-Hardware-Toolkit-collection-researchers/dp/1099209463)
+- 2019, Yago Hansen: [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://www.amazon.com/Hackers-Hardware-Toolkit-collection-researchers/dp/1099209463)
 - 2019, Aditya Gupta: [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.apress.com/us/book/9781484242995)
-- 2018, Mark Swarup Tehranipoor: [Hardware Security: A Hands-on Learning Approach](https://www.amazon.com/Hardware-Security-Hands-Learning-Approach/dp/0128124776)
+- 2018, Mark Swarup Tehranipoor: [Hardware Security: A Hands-on Learning Approach](https://www.elsevier.com/books/hardware-security/bhunia/978-0-12-812477-2)
 - 2017, Aditya Gupta, Aaron Guzman: [IoT Penetration Testing Cookboo](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)  
-- 2017, Andrew Huang: [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://www.amazon.com/Hardware-Hacker-Adventures-Making-Breaking/dp/159327758X)
-- 2016, Craig Smith: [The Car Hacker's Handbook: A Guide for the Penetration Tester](https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032)
-- 2015, Nitesh Dhanjan: [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36)
-- 2014, Debdeep Mukhopadhyay: [Hardware Security: Design, Threats, and Safeguards](https://www.amazon.com/Hardware-Security-Design-Threats-Safeguards/dp/143989583X)
-- 2014, Jack Ganssle: [The Firmware Handbook (Embedded Technology)](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
+- 2017, Andrew Huang: [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://nostarch.com/hardwarehackerpaperback)
+- 2016, Craig Smith: [The Car Hacker's Handbook: A Guide for the Penetration Tester](https://nostarch.com/carhacking)
+- 2015, Nitesh Dhanjan: [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](https://shop.oreilly.com/product/0636920033547.do)
+- 2014, Debdeep Mukhopadhyay: [Hardware Security: Design, Threats, and Safeguards](https://www.taylorfrancis.com/books/9780429066900)
+- 2014, Jack Ganssle: [The Firmware Handbook (Embedded Technology)](https://www.elsevier.com/books/the-firmware-handbook/ganssle/978-0-7506-7606-9)
 - 2013, Andrew Huang: [Hacking the XBOX](https://nostarch.com/xboxfree)
-- 2007, Paul Asadoorian, Larry Pesce: [Linksys WRT54G Ultimate Hacking](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
-- 2004, Joe Grand, Kevin Mitnick, Ryan Russel: [Hardware Hacking: Have Fun While Voiding Your Warranty](https://www.amazon.com/Hardware-Hacking-While-Voiding-Warranty/dp/1932266836)
+
 
 
 ## Research Papers
