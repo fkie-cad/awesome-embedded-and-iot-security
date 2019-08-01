@@ -37,16 +37,17 @@ Software tools for analyzing embedded/IoT firmware.
 - [Ghidra](https://ghidra-sre.org/) - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
 - [Trommel](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
-### Support Tools
-
-- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino
-- [OpenOCD](https://http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing
-
 ### Extraction Tools
 
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Extracts arbitrary files utilizing a carving approach.
 - [FACT Extractor](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
 - [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
+
+### Support Tools
+
+- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino
+- [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing
+
 
 ## Hardware Tools
 
