@@ -42,6 +42,7 @@ Software tools for analyzing embedded/IoT firmware.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Extracts arbitrary files utilizing a carving approach.
 - [FACT Extractor](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
 - [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
+- [The SRecord package](http://srecord.sourceforge.net/) - collection of tools for manipulating EPROM files (can convert lots of binary formats)
 
 ### Support Tools
 
