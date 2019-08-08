@@ -12,6 +12,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
   - [Analysis Frameworks](#analysis-frameworks)
   - [Analysis Tools](#analysis-tools)
   - [Extraction Tools](#extraction-tools)
+  - [Support Tools](#support-tools)
 - [Hardware Tools](#hardware-tools)
 - [Books](#books)
 - [Research Papers](#research-papers)
@@ -46,8 +47,8 @@ Software tools for analyzing embedded/IoT firmware.
 
 ### Support Tools
 
-- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino
-- [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing
+- [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
+- [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing.
 
 
 ## Hardware Tools
@@ -55,12 +56,12 @@ Software tools for analyzing embedded/IoT firmware.
 - [Bus Blaster](http://dangerousprototypes.com/docs/Bus_Blaster) - Detects and interacts with hardware debug ports like [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) and [JTAG](https://en.wikipedia.org/wiki/JTAG).
 - [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) - Detects and interacts with hardware debug ports like UART and JTAG.
 - [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) - Detects JTAG Pinouts fast.
-- [Saleae](https://www.saleae.com/) - Easy to use Logic Analyzer that support many protocols. :euro:
-- [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Alternative to Saleae logic analyzers. :euro:
-- [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) -  Open source multi-tool hardware similar to the BusPirate but with NFC capabilities 
-- [ChipWhisperer](https://newae.com/tools/chipwhisperer/) - Detects Glitch/Side-channel attacks 
-- [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -  Tool for exploring and debugging different digital interfaces
-- [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores. :euro:
+- [Saleae](https://www.saleae.com/) - Easy to use Logic Analyzer that support many protocols :euro:.
+- [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Alternative to Saleae logic analyzers :euro:.
+- [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) -  Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
+- [ChipWhisperer](https://newae.com/tools/chipwhisperer/) - Detects Glitch/Side-channel attacks.
+- [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -  Tool for exploring and debugging different digital interfaces.
+- [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores :euro:.
 
 
 ## Books
@@ -105,12 +106,12 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 
 ## Free Trainings
 
-- [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019
-- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt
-- [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018
-- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge
-- [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge
-- [Embedded Security CTF](https://microcorruption.com/login) - Microcorruption: Embedded Security CTF
+- [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
+- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
+- [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
+- [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
+- [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
+- [Embedded Security CTF](https://microcorruption.com/login) - Microcorruption: Embedded Security CTF.
 
 
 ## Websites
