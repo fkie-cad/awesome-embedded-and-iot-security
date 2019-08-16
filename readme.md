@@ -36,7 +36,7 @@ Software tools for analyzing embedded/IoT firmware.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff.  
 - [Firmadyne](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
 - [firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
-- [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering
+- [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
 - [Ghidra](https://ghidra-sre.org/) - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
 - [Trommel](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
