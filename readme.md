@@ -27,14 +27,16 @@ Software tools for analyzing embedded/IoT firmware.
 
 ### Analysis Frameworks
 
-- [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) - Full-featured static analysis framework including extraction of firmware, analysis utilizing different plug-ins and comparison of different firmware versions.
 - [EXPLIoT](https://gitlab.com/expliot_framework/expliot) - Pentest framework like Metasploit but specialized for IoT.
+- [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) - Full-featured static analysis framework including extraction of firmware, analysis utilizing different plug-ins and comparison of different firmware versions.
+- [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer) - Analyze security of firmware based on customized rules. Intended as additional step in DevSecOps, similar to CI.
 
 ### Analysis Tools
 
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff.  
 - [Firmadyne](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
 - [firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
+- [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering
 - [Ghidra](https://ghidra-sre.org/) - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
 - [Trommel](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
