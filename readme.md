@@ -1,3 +1,8 @@
+<div align="center">
+	<img width="500" height="350" src="iot_awesome_logo.svg" alt="Awesome">
+  <br />
+</div>
+
 # Awesome Embedded and IoT Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources about embedded and IoT security. The list contains software and hardware tools, books, research papers and more.
