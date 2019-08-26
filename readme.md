@@ -1,10 +1,18 @@
+<div align="center">
+	<img width="500" height="350" src="iot_awesome_logo.svg" alt="Awesome">
+  <br />
+</div>
+
 # Awesome Embedded and IoT Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources about embedded and IoT security. The list contains software and hardware tools, books, research papers and more.
 
+Botnets like [Mirai](https://en.wikipedia.org/wiki/Mirai_(malware)) have proven that there is a need for more security in embedded and IoT devices. This list shall help beginners and experts to find helpful resources on the topic.  
 If you are a beginner, you should have a look at the [Books](#books) and [Case Studies](#case-studies) sections.  
 If you want to start right away with your own analysis, you should give the [Analysis Frameworks](#analysis-frameworks) a try.
 They are easy to use and you do not need to be an expert to get first meaningful results.
+
+> *Items marked with :euro: are comercial products.*
 
 ## Contents
 
@@ -16,7 +24,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
 - [Hardware Tools](#hardware-tools)
 - [Books](#books)
 - [Research Papers](#research-papers)
-  - [Case Studies](#case-studies)
+- [Case Studies](#case-studies)
 - [Free Trainings](#free-trainings)
 - [Websites](#websites)
 - [Conferences](#conferences)
@@ -100,7 +108,7 @@ Software tools for analyzing embedded/IoT firmware.
 s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - 2013, Davidson et al: [FIE on Firmware: Finding Vulnerabilities in Embedded Systems using Symbolic Execution](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf)
 
-### Case Studies
+## Case Studies
 
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
 - [Multiple vulnerabilities found in the D-link DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
@@ -120,14 +128,16 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 
 ## Websites
 
-- [OWASP Embedded Application Security](https://www.owasp.org/index.php/OWASP_Embedded_Application_Security)
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
+- [OWASP Embedded Application Security Project](https://www.owasp.org/index.php/OWASP_Embedded_Application_Security) - Development best practices and list of hardware and software tools.
+- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project) - IoT common vulnerabilities and attack surfaces. 
 - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page)
 - [Router Passwords](https://www.routerpasswords.com) - Default login credential database sorted by manufacturer.
 
 ## Conferences
+Conferences focused on embedded and/or IoT security.
 
-- [Hardwear.io](https://hardwear.io/)
+- [Hardwear.io](https://hardwear.io/) - The Hague, September.
+- [Hardwear.io USA](https://hardwear.io/) - Santa Clara, June. 
 
 ## Contribute
 
