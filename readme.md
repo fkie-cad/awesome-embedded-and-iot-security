@@ -12,6 +12,8 @@ If you are a beginner, you should have a look at the [Books](#books) and [Case S
 If you want to start right away with your own analysis, you should give the [Analysis Frameworks](#analysis-frameworks) a try.
 They are easy to use and you do not need to be an expert to get first meaningful results.
 
+> *Items marked with :euro: are comercial products.*
+
 ## Contents
 
 - [Software Tools](#software-tools)
