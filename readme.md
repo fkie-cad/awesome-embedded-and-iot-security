@@ -2,6 +2,7 @@
 
 > A curated list of awesome resources about embedded and IoT security. The list contains software and hardware tools, books, research papers and more.
 
+Botnets like [Mirai](https://en.wikipedia.org/wiki/Mirai_(malware)) have proven that there is a need for more security in embedded and IoT devices. This list shall help beginners and experts to find helpful resources on the topic.
 If you are a beginner, you should have a look at the [Books](#books) and [Case Studies](#case-studies) sections.  
 If you want to start right away with your own analysis, you should give the [Analysis Frameworks](#analysis-frameworks) a try.
 They are easy to use and you do not need to be an expert to get first meaningful results.
