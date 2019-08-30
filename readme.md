@@ -124,7 +124,7 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
 - [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
-- [Embedded Security CTF](https://microcorruption.com/login) - Microcorruption: Embedded Security CTF.
+- [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
 
 
 ## Websites
