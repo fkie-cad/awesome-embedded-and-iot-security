@@ -6,8 +6,8 @@ project you agree to abide by its terms.
 
 ## Making Changes
 
-You want something to be added? Just make a pull request or open an issue.  
-You want something to be removed? Open an issue and explain why something should be removed.
+Do you want something added? Just make a pull request or open an issue.  
+Do you want something removed? Open an issue and explain why something should be removed.
 
 Thank you for your suggestions!
 
