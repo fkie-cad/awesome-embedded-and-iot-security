@@ -25,7 +25,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
 - [Books](#books)
 - [Research Papers](#research-papers)
 - [Case Studies](#case-studies)
-- [Free Trainings](#free-trainings)
+- [Free Training](#free-training)
 - [Websites](#websites)
 - [Conferences](#conferences)
 
