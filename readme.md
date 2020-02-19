@@ -25,7 +25,9 @@ They are easy to use and you do not need to be an expert to get first meaningful
 - [Books](#books)
 - [Research Papers](#research-papers)
 - [Case Studies](#case-studies)
-- [Free Training](#free-training)
+- [Trainings](#trainings)
+  - [Free Training](#free-training)
+  - [Paid Training](#paid-training)
 - [Websites](#websites)
 - [Conferences](#conferences)
 
@@ -121,8 +123,9 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol](https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html)
 - [PWN Xerox Printers (...again)](https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/xerox_phaser_6700_white_paper.pdf)
 
+## Trainings
 
-## Free Training
+### Free Training
 
 - [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
 - [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
@@ -130,6 +133,11 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
 - [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 - [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
+
+### Paid Training
+
+ - [Einführung in die Firmware Analyse](https://www.cybersicherheit.fraunhofer.de/de/kursangebote/schadsoftwareanalyse/einfuehrung-in-die-firmware-analyse.html) :de:
+ - [Fortgeschrittene Firmware Analyse](https://www.cybersicherheit.fraunhofer.de/de/kursangebote/schadsoftwareanalyse/fortgeschrittene-firmware-analyse.html) :de:
 
 
 ## Websites
