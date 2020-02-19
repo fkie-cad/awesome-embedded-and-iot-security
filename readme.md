@@ -136,8 +136,8 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 
 ### Paid Training
 
- - [Einführung in die Firmware Analyse](https://www.cybersicherheit.fraunhofer.de/de/kursangebote/schadsoftwareanalyse/einfuehrung-in-die-firmware-analyse.html) :de:
- - [Fortgeschrittene Firmware Analyse](https://www.cybersicherheit.fraunhofer.de/de/kursangebote/schadsoftwareanalyse/fortgeschrittene-firmware-analyse.html) :de:
+- [Einführung in die Firmware Analyse](https://www.cybersicherheit.fraunhofer.de/de/kursangebote/schadsoftwareanalyse/einfuehrung-in-die-firmware-analyse.html) - :de:
+- [Fortgeschrittene Firmware Analyse](https://www.cybersicherheit.fraunhofer.de/de/kursangebote/schadsoftwareanalyse/fortgeschrittene-firmware-analyse.html) - :de:
 
 
 ## Websites
