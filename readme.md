@@ -27,6 +27,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
 - [Case Studies](#case-studies)
 - [Free Training](#free-training)
 - [Websites](#websites)
+  - [Blogs](#blogs) 
 - [Conferences](#conferences)
 
 
@@ -61,8 +62,6 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [FACT Extractor](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
 - [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
 - [The SRecord package](http://srecord.sourceforge.net/) - Collection of tools for manipulating EPROM files (can convert lots of binary formats).
-
-### Exploitation Tools
 
 ### Support Tools
 
@@ -110,7 +109,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - 2016, Kammerstetter et al: [Embedded Security Testing with Peripheral Device Caching and Runtime Program State Approximation](https://www.thinkmind.org/download.php?articleid=securware_2016_2_10_30082)
 - 2016, Chen et al: [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.dcddcc.com/docs/2016_paper_firmadyne.pdf)
 - 2016, Costin et al: [Automated Dynamic Firmware Analysis at Scale: A Case Study on Embedded Web Interfaces](http://s3.eurecom.fr/docs/asiaccs16_costin.pdf)
-- 2015, Shoshitaishvili et al:[Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware](https://seclab.cs.ucsb.edu/media/uploads/papers/firmalice.pdf)
+- 2015, Shoshitaishvili et al:[Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/11_1_2.pdf)
 - 2015, Papp et al: [Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy](http://www.cse.psu.edu/~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf)
 - 2014, Zaddach et al: [Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares](http://www.eurecom.fr/en/publication/4158/download/rs-publi-4158.pdf)
 - 2014, Alimi et al: [Analysis of embedded applications by evolutionary fuzzing](http://ieeexplore.ieee.org/document/6903734/)
@@ -124,7 +123,7 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
-- [Hacking the PS4](https://cturt.github.io/ps4.html) - Introduction to PS4's security
+- [Hacking the PS4](https://cturt.github.io/ps4.html) - Introduction to PS4's security.
 - [Multiple vulnerabilities found in the D-link DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
 - [Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol](https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html)
 - [PWN Xerox Printers (...again)](https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/xerox_phaser_6700_white_paper.pdf)
@@ -144,12 +143,12 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 ## Websites
 
 - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page) - All things printer.
-- [OWASP Embedded Application Security Project](https://www.owasp.org/index.php/OWASP_Embedded_Application_Security) - Development best practices and list of hardware and software tools.
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project) - IoT common vulnerabilities and attack surfaces. 
+- [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) - Development best practices and list of hardware and software tools.
+- [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) - IoT common vulnerabilities and attack surfaces. 
 - [Router Passwords](https://192-168-1-1ip.mobi/default-router-passwords-list/) - Default login credential database sorted by manufacturer.
-- [Siliconpr0n](https://siliconpr0n.org/) - A Wiki/Archive of all things IC reversing
+- [Siliconpr0n](https://siliconpr0n.org/) - A Wiki/Archive of all things IC reversing.
 
-## Blogs
+### Blogs
 <!--lint ignore no-repeat-punctuation-->
 - [/dev/ttyS0's Embedded Device Hacking](http://www.devttys0.com/blog/)
 - [Exploiteers](https://www.exploitee.rs/)
@@ -169,7 +168,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Fraunhofer FKIE has waived all copyright and
 related or neighboring rights to this work.
