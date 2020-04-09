@@ -27,7 +27,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
 - [Case Studies](#case-studies)
 - [Free Training](#free-training)
 - [Websites](#websites)
-  - [Blogs](#blogs)
+  - [Blogs](#blogs) 
 - [Conferences](#conferences)
 
 
@@ -143,8 +143,8 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 ## Websites
 
 - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page) - All things printer.
-- [OWASP Embedded Application Security Project](https://www.owasp.org/index.php/OWASP_Embedded_Application_Security) - Development best practices and list of hardware and software tools.
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project) - IoT common vulnerabilities and attack surfaces. 
+- [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) - Development best practices and list of hardware and software tools.
+- [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) - IoT common vulnerabilities and attack surfaces. 
 - [Router Passwords](https://192-168-1-1ip.mobi/default-router-passwords-list/) - Default login credential database sorted by manufacturer.
 - [Siliconpr0n](https://siliconpr0n.org/) - A Wiki/Archive of all things IC reversing.
 
