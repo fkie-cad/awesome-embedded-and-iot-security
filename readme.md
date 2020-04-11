@@ -122,13 +122,17 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 - [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
+- [Dumping firmware a device with a buspirate and a SPI flash chip](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
 - [Hacking the PS4](https://cturt.github.io/ps4.html) - Introduction to PS4's security.
+- [JTAG Explained](https://blog.senr.io/blog/jtag-explained#) - A walkthrough covering UART and JTAG bypassing a protected login shell.
 - [Multiple vulnerabilities found in the D-link DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
 - [Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol](https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html)
 - [PWN Xerox Printers (...again)](https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/xerox_phaser_6700_white_paper.pdf)
+- [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
 - [Reversing Firmware With Radare](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
 - [Reversing the Huawei HG533](http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
+- [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic)
 
 ## Free Training
 
@@ -150,11 +154,14 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 
 ### Blogs
 <!--lint ignore no-repeat-punctuation-->
+- [Azeria Lab](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - [/dev/ttyS0's Embedded Device Hacking](http://www.devttys0.com/blog/)
 - [Exploiteers](https://www.exploitee.rs/)
 - [Hackaday](https://hackaday.com)
 - [jcjc's Hack The World](https://jcjc-dev.com/)
+- [Mikroe - UART explained](https://www.mikroe.com/blog/uart-serial-communication)
 - [Quarkslab](https://blog.quarkslab.com/)
+- [wrong baud](https://wrongbaud.github.io/)
 
 ## Conferences
 Conferences focused on embedded and/or IoT security.
