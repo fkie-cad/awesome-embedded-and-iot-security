@@ -21,13 +21,15 @@ They are easy to use and you do not need to be an expert to get first meaningful
   - [Analysis Tools](#analysis-tools)
   - [Extraction Tools](#extraction-tools)
   - [Support Tools](#support-tools)
+  - [Misc Tools](#misc-tools)
 - [Hardware Tools](#hardware-tools)
 - [Books](#books)
 - [Research Papers](#research-papers)
 - [Case Studies](#case-studies)
 - [Free Training](#free-training)
 - [Websites](#websites)
-  - [Blogs](#blogs) 
+  - [Blogs](#blogs)
+  - [Tutorials and Technical Background](#tutorials-and-technical-background)
 - [Conferences](#conferences)
 
 
@@ -67,6 +69,10 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 - [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
 - [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing.
+
+### Misc Tools
+
+- [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates. 
 
 ## Hardware Tools
 
@@ -122,6 +128,7 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 - [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
+- [Dumping firmware from a device's SPI flash with a buspirate](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
 - [Hacking the PS4](https://cturt.github.io/ps4.html) - Introduction to PS4's security.
 - [Multiple vulnerabilities found in the D-link DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
@@ -155,6 +162,14 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Hackaday](https://hackaday.com)
 - [jcjc's Hack The World](https://jcjc-dev.com/)
 - [Quarkslab](https://blog.quarkslab.com/)
+- [wrong baud](https://wrongbaud.github.io/)
+
+### Tutorials and Technical Background
+- [Azeria Lab](https://azeria-labs.com/) - Miscellaneous ARM related Tutorials.
+- [JTAG Explained](https://blog.senr.io/blog/jtag-explained#) - A walkthrough covering UART and JTAG bypassing a protected login shell.
+- [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/) - Detailed tutorial about how to spot debug pads on a PCB.
+- [UART explained](https://www.mikroe.com/blog/uart-serial-communication) - An in depth explanation of the UART protocol.
+
 
 ## Conferences
 Conferences focused on embedded and/or IoT security.
