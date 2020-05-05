@@ -166,7 +166,8 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 <!--lint ignore no-repeat-punctuation-->
 
-- [IoT Security@CERN](https://doi.org/10.5281/zenodo.1035034) [(https://zenodo.org/badge/DOI/10.5281/zenodo.1035034.svg)]
+
+- [IoT Security@CERN](https://doi.org/10.5281/zenodo.1035034) [![DOI(https://zenodo.org/badge/DOI/10.5281/zenodo.1035034.svg)](https://doi.org/10.5281/zenodo.1035034)
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 - [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) - Conference talk presenting several real world examples on real bad implementations :tv:.
