@@ -91,24 +91,24 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -  Tool for exploring and debugging different digital interfaces.
 - [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores :euro:.
 
-## Bluetooth BLE Tools
+### Bluetooth BLE Tools
 - [UberTooth One](https://greatscottgadgets.com/ubertoothone/) - Open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation.
 - [Bluefruit LE Sniffer](https://www.adafruit.com/product/2269) - Easy to use Bluetooth Low Energy sniffer.
 
-## ZigBee Tools
+### ZigBee Tools
 
 - [ApiMote](http://apimote.com) - ZigBee security research hardware for learning about and evaluating the security of IEEE 802.15.4/ZigBee systems. Killerbee compatible.
 - Atmel RZUSBstick - Discontinued product. Lucky if you have one! - Tool for development, debugging and demonstration of a wide range of low power wireless applications including IEEE 802.15.4, 6LoWPAN, and ZigBee networks. Killerbee compatible.
 - [Freakduino](https://freaklabsstore.com/index.php?main_page=product_info&cPath=22&products_id=219&zenid=fpmu2kuuk4abjf6aurt3bjnfk4) - Low Cost Battery Operated Wireless Arduino Board that can be turned into a IEEE 802.15.4 protocol sniffer.
 
-## SDR Tools
+### SDR Tools
 - [HackRF One](https://greatscottgadgets.com/hackrf/) - Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz (half-duplex).
 - [YardStick One](https://greatscottgadgets.com/yardstickone/) - Half-duplex sub-1 GHz wireless transceiver.
 - [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr) - Software Defined Radio peripheral capable of transmission or reception of radio signals from 100 KHz to 3.8 GHz (full-duplex).
 - [BladeRF 2.0](https://www.nuand.com/bladerf-2-0-micro/) - Software Defined Radio peripheral capable of transmission or reception of radio signals from 47 MHz to 6 GHz (full-duplex).
 - [USRP B Series](https://www.ettus.com/product-categories/usrp-bus-series/) - Software Defined Radio peripheral capable of transmission or reception of radio signals from 70 MHz to 6 GHz (full-duplex).
 
-## RFID NFC Tools
+### RFID NFC Tools
 - [Proxmark 3 RDV4](https://www.proxmark.com/) - Powerful general purpose RFID tool. From Low Frequency (125kHz) to High Frequency (13.56MHz) tags.
 - [ChamaleonMini](http://chameleontiny.com/) - Programmable, portable tool for NFC security analysis.
 - [HydraNFC](https://hydrabus.com/hydranfc-1-0-specifications/) - Powerful 13.56MHz RFID / NFC platform. Read / write / crack / sniff / emulate.
@@ -121,7 +121,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - 2019, Aditya Gupta: [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.apress.com/us/book/9781484242995)
 - 2018, Mark Swarup Tehranipoor: [Hardware Security: A Hands-on Learning Approach](https://www.elsevier.com/books/hardware-security/bhunia/978-0-12-812477-2)
 - 2018, Mark Carney: [Pentesting Hardware - A Practical Handbook (DRAFT)](https://github.com/unprovable/PentestHardware)
-- 2018,  Qing Yang, Lin Huang [Inside Radio: An Attack and Defense Guide](https://link.springer.com/book/10.1007/978-981-10-8447-8)
+- 2018, Qing Yang, Lin Huang [Inside Radio: An Attack and Defense Guide](https://link.springer.com/book/10.1007/978-981-10-8447-8)
 - 2017, Aditya Gupta, Aaron Guzman: [IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
 - 2017, Andrew Huang: [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://nostarch.com/hardwarehackerpaperback)
 - 2016, Craig Smith: [The Car Hacker's Handbook: A Guide for the Penetration Tester](https://nostarch.com/carhacking)
@@ -131,8 +131,6 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - 2014, Debdeep Mukhopadhyay: [Hardware Security: Design, Threats, and Safeguards](https://www.taylorfrancis.com/books/9780429066900)
 - 2014, Jack Ganssle: [The Firmware Handbook (Embedded Technology)](https://www.elsevier.com/books/the-firmware-handbook/ganssle/978-0-7506-7606-9)
 - 2013, Andrew Huang: [Hacking the XBOX](https://nostarch.com/xboxfree)
-
-
 
 ## Research Papers
 <!--lint ignore match-punctuation-->
@@ -195,12 +193,14 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [jcjc's Hack The World](https://jcjc-dev.com/)
 - [Quarkslab](https://blog.quarkslab.com/)
 - [wrong baud](https://wrongbaud.github.io/)
+
 - [Firmware Security](https://firmwaresecurity.com/)
 - [PenTestPartners](https://www.pentestpartners.com/internet-of-things/)
 - [Attify](https://blog.attify.com/)
 - [Patayu](https://payatu.com/blog)
 - [GracefulSecurity - Hardware tag](https://gracefulsecurity.com/category/hardware/)
 - [Black Hills - Hardware Hacking tag](https://www.blackhillsinfosec.com/tag/hardware-hacking/)
+
 
 ### Tutorials and Technical Background
 - [Azeria Lab](https://azeria-labs.com/) - Miscellaneous ARM related Tutorials.
