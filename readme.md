@@ -200,6 +200,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 <!--lint ignore no-repeat-punctuation-->
 
+- [RTL-SDR](https://www.rtl-sdr.com/)
 - [/dev/ttyS0's Embedded Device Hacking](http://www.devttys0.com/blog/)
 - [Exploiteers](https://www.exploitee.rs/)
 - [Hackaday](https://hackaday.com)
