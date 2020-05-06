@@ -108,6 +108,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### SDR Tools
 
+- [RTL-SDR](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/) - Cheapest SDR for beginners. It is a computer based radio scanner for receiving live radio signals frequencies from 500 kHz up to 1.75 GHz.
 - [HackRF One](https://greatscottgadgets.com/hackrf/) - Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz (half-duplex).
 - [YardStick One](https://greatscottgadgets.com/yardstickone/) - Half-duplex sub-1 GHz wireless transceiver.
 - [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr) - Software Defined Radio peripheral capable of transmission or reception of radio signals from 100 KHz to 3.8 GHz (full-duplex).
@@ -199,6 +200,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 <!--lint ignore no-repeat-punctuation-->
 
+- [RTL-SDR](https://www.rtl-sdr.com/)
 - [/dev/ttyS0's Embedded Device Hacking](http://www.devttys0.com/blog/)
 - [Exploiteers](https://www.exploitee.rs/)
 - [Hackaday](https://hackaday.com)
