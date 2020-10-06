@@ -8,11 +8,11 @@
 > A curated list of awesome resources about embedded and IoT security. The list contains software and hardware tools, books, research papers and more.
 
 Botnets like [Mirai](<https://en.wikipedia.org/wiki/Mirai_(malware)>) have proven that there is a need for more security in embedded and IoT devices. This list shall help beginners and experts to find helpful resources on the topic.  
-If you are a beginner, you should have a look at the [Books](#books) and [Case Studies](#case-studies) sections.  
-If you want to start right away with your own analysis, you should give the [Analysis Frameworks](#analysis-frameworks) a try.
+If you are a beginner, you should have a look at the <ins>*Books*</ins> and <ins>*Case Studies*</ins> sections.  
+If you want to start right away with your own analysis, you should give the <ins>*Analysis Frameworks*</ins> a try.
 They are easy to use and you do not need to be an expert to get first meaningful results.
 
-> _Items marked with :euro: are comercial products._
+> Items marked with :euro: are comercial products.
 
 ## Contents
 
@@ -55,7 +55,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Analysis Tools
 
-- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff.
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
 - [Firmadyne](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
 - [Firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
 - [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
@@ -65,7 +65,6 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 ### Extraction Tools
 
-- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Extracts arbitrary files utilizing a carving approach.
 - [FACT Extractor](https://github.com/fkie-cad/fact_extractor) - Detects container format automatically and executes the corresponding extraction tool.
 - [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit/wiki) - Extraction tools for several container formats.
 - [The SRecord package](http://srecord.sourceforge.net/) - Collection of tools for manipulating EPROM files (can convert lots of binary formats).
@@ -227,8 +226,9 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 Conferences focused on embedded and/or IoT security.
 
-- [Hardwear.io](https://hardwear.io/) - The Hague, September.
-- [Hardwear.io USA](https://hardwear.io/) - Santa Clara, June.
+- [Hardwear.io](https://hardwear.io/) 
+ 	- EU, The Hague, September.
+	- USA, Santa Clara, June.
 
 ## Contribute
 
