@@ -5,13 +5,11 @@ on:
     branches: [master]
 
 jobs:
-  build:
-    name: awesome-lint (double link)
+  awesome-lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Scrum/awesome-readme-lint-double-link-action@v0.1.13
+      - name: Test awesome-lint with custom file path
+        uses: jthegedus/github-action-awesome-lint@68fc989d5a01aa127ce502a59f72ebe4166386f1 # commit_sha of tag v0.1.0
         with:
-          entry: 'readme.md'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          args: 'readme.md'
