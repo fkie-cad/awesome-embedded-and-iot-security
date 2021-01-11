@@ -35,6 +35,8 @@ They are easy to use and you do not need to be an expert to get first meaningful
   - [Blogs](#blogs)
   - [Tutorials and Technical Background](#tutorials-and-technical-background)
 - [Conferences](#conferences)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Software Tools
 
