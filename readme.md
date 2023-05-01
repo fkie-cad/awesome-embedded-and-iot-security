@@ -225,6 +225,10 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/) - Detailed tutorial about how to spot debug pads on a PCB.
 - [UART explained](https://www.mikroe.com/blog/uart-serial-communication) - An in depth explanation of the UART protocol.
 
+### YouTube Channels
+- [Flashback Team](https://www.youtube.com/c/FlashbackTeam) - A duo of hackers explaining their step by step approach to finding and exploiting vulnerabilities in embedded devices.
+- [StackSmashing](https://www.youtube.com/c/stacksmashing) - Reverse engineering and hardware hacking of embedded devices.
+
 ## Conferences
 
 Conferences focused on embedded and/or IoT security.
