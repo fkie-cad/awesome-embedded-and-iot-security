@@ -60,6 +60,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ### Analysis Tools
 
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+- [cwe\_checker](https://github.com/fkie-cad/cwe_checker) - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 - [emba](https://github.com/e-m-b-a/emba) - Analyze Linux-based firmware of embedded devices.
 - [Firmadyne](https://github.com/firmadyne/firmadyne) - Tries to emulate and pentest a firmware.
 - [Firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
