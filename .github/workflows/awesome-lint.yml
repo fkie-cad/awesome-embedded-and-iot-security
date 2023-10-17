@@ -13,7 +13,4 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0 # fix remark-lint:awesome-git-repo-age
-      - name: Test awesome-lint with custom file path
-        uses: jthegedus/github-action-awesome-lint@68fc989d5a01aa127ce502a59f72ebe4166386f1 # commit_sha of tag v0.1.0
-        with:
-          args: 'readme.md'
+      - run: 'npx awesome-lint "readme.md"'
