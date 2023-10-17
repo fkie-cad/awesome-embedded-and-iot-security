@@ -1,3 +1,4 @@
+<!--lint ignore awesome-license-->
 <div align="center">
 	<img width="500" height="350" src="iot_awesome_logo.svg" alt="Awesome">
   <br />
@@ -34,7 +35,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
 - [Websites](#websites)
   - [Blogs](#blogs)
   - [Tutorials and Technical Background](#tutorials-and-technical-background)
-- [YouTube Channels](#youtube-channels)
+  - [YouTube Channels](#youtube-channels)
 - [Conferences](#conferences)
 - [Contribute](#contribute)
 - [License](#license)
@@ -243,8 +244,6 @@ Conferences focused on embedded and/or IoT security.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-<!--lint disable awesome-toc-->
 
 ## License
 
