@@ -55,6 +55,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz) - Framework for automatisation of IoT layers security analysis: hardware, software and communication.
 - [Killerbee](https://github.com/riverloopsec/killerbee) - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
 - [PRET](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit.
+- [NullSec Pineapple Suite](https://github.com/bad-antics/hak5-pineapple) - 60+ WiFi Pineapple payloads for wireless IoT network pentesting including deauth, evil twin, handshake capture, and network reconnaissance.
 - [Routersploit](https://github.com/threat9/routersploit) - Framework dedicated to exploit embedded devices.
 
 ### Analysis Tools
@@ -125,6 +126,8 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [Proxmark 3 RDV4](https://www.proxmark.com/) - Powerful general purpose RFID tool. From Low Frequency (125kHz) to High Frequency (13.56MHz) tags.
 - [ChamaleonMini](http://chameleontiny.com/) - Programmable, portable tool for NFC security analysis.
 - [HydraNFC](https://hydrabus.com/hydranfc-1-0-specifications/) - Powerful 13.56MHz RFID / NFC platform. Read / write / crack / sniff / emulate.
+- [NullSec Flipper Suite](https://github.com/bad-antics/nullsec-flipper-suite) - Comprehensive Flipper Zero payload collection for RFID/NFC cloning, RF analysis, BadUSB, infrared, and wireless pentesting.
+- [PineFlip](https://github.com/bad-antics/pineflip) - Professional Flipper Zero companion app for Linux with GTK4/libadwaita UI, screen mirroring, file manager, and firmware management.
 
 ## Books
 
