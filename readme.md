@@ -15,6 +15,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
 
 > Items marked with :euro: are comercial products.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including IoT security scanning, automated vulnerability assessment, embedded device monitoring, and multi-agent security orchestration. MIT licensed.
 ## Contents
 
 - [Software Tools](#software-tools)
