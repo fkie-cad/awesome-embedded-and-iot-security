@@ -85,6 +85,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [Cotopaxi](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
 - [dumpflash](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility.
 - [flashrom](https://github.com/flashrom/flashrom) - Tool for detecting, reading, writing, verifying and erasing flash chips.
+- [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Hardware-in-the-loop testing framework for embedded devices, enabling automated security testing workflows on real hardware in CI/CD pipelines.
 - [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates.
 
 ## Hardware Tools
