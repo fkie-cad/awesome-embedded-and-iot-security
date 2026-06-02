@@ -37,6 +37,7 @@ They are easy to use and you do not need to be an expert to get first meaningful
   - [Tutorials and Technical Background](#tutorials-and-technical-background)
   - [YouTube Channels](#youtube-channels)
 - [Conferences](#conferences)
+- [Jobs & Career](#jobs--career)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -241,6 +242,12 @@ Conferences focused on embedded and/or IoT security.
 - [Hardwear.io](https://hardwear.io/)
   - EU, The Hague, September.
   - USA, Santa Clara, June.
+
+## Jobs & Career
+
+Job boards and career resources for embedded systems and IoT security professionals.
+
+- [EmbeddedJobs](https://embedded.jobs) - Job board dedicated to embedded systems and IoT roles, covering firmware, hardware, RTOS, and security engineering positions.
 
 ## Contribute
 
