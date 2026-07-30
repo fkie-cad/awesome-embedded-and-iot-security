@@ -83,6 +83,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ### Misc Tools
 
 - [Cotopaxi](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
+- [CRA Kit](https://cra.synthworx.com/wizard) - Free, no-signup EU Cyber Resilience Act scope and classification tool; commercial plans add firmware analysis, SBOM/VEX, vulnerability monitoring, and evidence exports :euro:.
 - [dumpflash](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility.
 - [flashrom](https://github.com/flashrom/flashrom) - Tool for detecting, reading, writing, verifying and erasing flash chips.
 - [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) - Decrypt Samsung SSD firmware updates.
