@@ -199,6 +199,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 ## Websites
 
 - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page) - All things printer.
+- [OpenDeviceDB](https://opendevicedb.org/) - Directory linking device models to firmware, drivers, tools and protocol research.
 - [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) - Development best practices and list of hardware and software tools.
 - [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) - IoT common vulnerabilities and attack surfaces.
 - [Router Passwords](https://192-168-1-1ip.mobi/default-router-passwords-list/) - Default login credential database sorted by manufacturer.
