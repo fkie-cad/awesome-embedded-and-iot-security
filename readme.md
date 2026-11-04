@@ -1,4 +1,4 @@
-<!--lint ignore awesome-license-->
+<!-- Project banner -->
 <div align="center">
 	<img width="500" height="350" src="iot_awesome_logo.svg" alt="Awesome">
   <br />
@@ -98,7 +98,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) - Open source multi-tool hardware similar to the BusPirate but with NFC capabilities.
 - [ChipWhisperer](https://newae.com/chipwhisperer/) - Detects Glitch/Side-channel attacks.
 - [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) - Tool for exploring and debugging different digital interfaces.
-- [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - J-Link offers USB powered JTAG debug probes for multiple different CPU cores :euro:.
+- [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) - USB powered JTAG debug probes for multiple different CPU cores :euro:.
 
 ### Bluetooth BLE Tools
 
@@ -191,7 +191,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [CSAW Embedded Security Challenge 2019](https://github.com/TrustworthyComputing/csaw_esc_2019) - CSAW 2019 Embedded Security Challenge (ESC).
 - [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
 - [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
-- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
+- [IoTGoat](https://github.com/scriptingxss/IoTGoat) - Deliberately insecure firmware based on OpenWrt.
 - [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 - [Rhme-2016](https://github.com/Riscure/Rhme-2016) - Riscure Hack me 2 is a low level hardware CTF challenge.
 - [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) - Riscure Hack Me 3 embedded hardware CTF 2017-2018.
@@ -246,6 +246,7 @@ Conferences focused on embedded and/or IoT security.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+<!--lint ignore awesome-license-->
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
