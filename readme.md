@@ -66,6 +66,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 - [Firmwalker](https://github.com/craigz28/firmwalker) - Searches extracted firmware images for interesting files and information.
 - [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
 - [Ghidra](https://ghidra-sre.org/) - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
+- [PUFAnalytics](https://github.com/TakMashhido/PUFAnalytics) - Python library and [in-browser workbench](https://koustav.isroot.in/PUFAnalytics/) for evaluating Physically Unclonable Functions (PUFs) with NIST SP 800-22/90B tests, ML modeling attacks, and fuzzy-extractor planning.
 - [Radare2](https://github.com/radare/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
 - [Trommel](https://github.com/CERTCC/trommel) - Searches extracted firmware images for interesting files and information.
 
@@ -149,6 +150,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 <!--lint ignore match-punctuation-->
 
+- 2025, Mondal et al: [PUFAnalytics: Python Library for Comprehensive Evaluation and Analysis of PUFs](https://koustav.isroot.in/papers/PUFAnalytics_Python_Library_for_Comprehensive_Evaluation_and_Analysis_of_PUFs.pdf)
 - 2020, Oser et al: [SAFER: Development and Evaluation of an IoT Device Risk Assessment Framework in a Multinational Organization](https://dl.acm.org/doi/abs/10.1145/3414173)
 - 2019, Agarwal et al: [Detecting IoT Devices and How They Put Large Heterogeneous Networks at Security Risk](https://www.mdpi.com/1424-8220/19/19/4107)
 - 2019, Almakhdhub et al: [BenchIoT: A Security Benchmark for the Internet of Things](https://nebelwelt.net/publications/files/19DSN.pdf)
@@ -226,6 +228,7 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 - [Azeria Lab](https://azeria-labs.com/) - Miscellaneous ARM related Tutorials.
 - [JTAG Explained](https://blog.senr.io/blog/jtag-explained#) - A walkthrough covering UART and JTAG bypassing a protected login shell.
+- [PUFAnalytics Guide](https://koustav.isroot.in/blog/pufanalytics-guide/) - Practical guide to evaluating Physically Unclonable Functions (PUFs), statistical metrics, NIST randomness/entropy tests, and ML modeling attacks.
 - [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/) - Detailed tutorial about how to spot debug pads on a PCB.
 - [UART explained](https://www.mikroe.com/blog/uart-serial-communication) - An in depth explanation of the UART protocol.
 
